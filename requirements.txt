@@ -1,5 +1,5 @@
 pandas
 pyarrow
+numpy
 pandera
 pytest
-boto3

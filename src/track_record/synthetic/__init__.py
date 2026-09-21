@@ -1,1 +1,1 @@
-"""Track Record package."""
+"""Synthetic data generation for pipeline development."""
